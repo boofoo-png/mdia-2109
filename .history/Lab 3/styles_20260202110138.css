@@ -1,0 +1,9 @@
+title {
+    color: aquamarine;
+}
+
+p.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkblue;
+}

@@ -1,0 +1,30 @@
+title {
+    color: aquamarine;
+}
+
+p.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p.intro {
+    font-size: 18px;
+    color: darkorange;
+}
+
+p.maingoal {
+    font-size: 20px;
+    font-style: italic;
+    color: darkgreen;
+}
+
+p.ending {
+    font-size: 18px;
+    text-decoration: underline;
+    color: darkred;
+}
+
+body {
+    background-color: black;
+}

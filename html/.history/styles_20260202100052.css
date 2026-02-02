@@ -1,0 +1,17 @@
+h1 {
+    color: green;
+}
+
+.heading-1 {
+    color: tomato;
+}
+
+#heading-one {
+    color: teal;
+}
+
+.header-container{
+    color:goldenrod;
+    border: 5px solid darkred;
+    padding-top: 5px;
+}
