@@ -26,11 +26,13 @@ Submit the url to your pull request
 
 ## Fishtopia Project
 ### Fishtopia Team Members!
-| Phillip Ho    |(images/IMG_1298.JPG)
-| Runn Keerativorant |
-| Tracy Tram    |
-| Nikka Adrias  |
-| Carson Ferguson |
+| Name        | Photo |
+|-------------|-------|
+| Phillip Ho  | <img src="images/IMG_1298.JPG" width="120"> |
+| Runn Keerativorant |<img src="images/image.PNG" width="120"> |
+| Tracy Tram    |<img src="images/IMG_1293.jpg" width="120"> |
+| Nikka Adrias  |<img src="images/D41F2EE7-ABFF-4FCA-B351-B859B2B77DC1.JPG" width="120"> |
+| Carson Ferguson |<img src="images/IMG_7463.JPG" width="120"> |
 | Athena Zhu    |
 
 
