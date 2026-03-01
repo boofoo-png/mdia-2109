@@ -24,10 +24,10 @@ Open a pull request from lab-4 into main
 Submit the url to your pull request
 !-->
 
-##Fishtopia Project
-###Fishtopia Team Members!
+## Fishtopia Project
+### Fishtopia Team Members!
 
-###Team Members
+### Team Members
 | ------------- | 
 | Phillip Ho    |
 | Runn Keerativorant |
@@ -37,7 +37,7 @@ Submit the url to your pull request
 | Athena Zhu    |
 
 
-##About This Game
+## About This Game
 Fishtopia is a 2D pixel-art fishing simulation game set on a secluded island inhabited by humanoid cat citizens known as the Kittezens. After receiving news of their grandfather’s passing, the player character, Finn, travels to claim an inherited fishing business located on the island.
 Upon arrival, a storm wrecks Finn’s boat, leaving them stranded. In order to gain sufficient funds to repair the boat and eventually leave the island, Finn must take over their grandfather’s fishing operation, catch fish, manage the shop, and support the island community.
 As the player progresses, they uncover more about their grandfather’s past and begin to question whether leaving the island is truly their final goal.
