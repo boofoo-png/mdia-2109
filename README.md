@@ -42,6 +42,11 @@ Upon arrival, a storm wrecks Finn’s boat, leaving them stranded. In order to g
 As the player progresses, they uncover more about their grandfather’s past and begin to question whether leaving the island is truly their final goal.
 
 ## What I would like to make perfect in this project
-Since my team has no developers and is just designers, I would like to focus more on the design aspect of things. Since we may not be able to develop this game to its fullest potential, I want to put more focus and emphasis on pixel art and making it look pretty. I want to be able to make the landscape of the game look like an actual video game and not just a student project. Since this may be on our portfolio one day, I want to be able to use this to showcase my skills for my future employers in the near future.
+Since my team has no developers and is just designers, I would like to focus more on the design aspect of things. Since we may not be able to develop this game to its fullest potential, I want to put more focus and emphasis on pixel art and making it look pretty. I want to be able to make the landscape of the game look like an actual video game and not just a student project. Since this may be on our portfolio one day, I want to be able to use this to showcase my skills for my future employers in the near future. Below is an example of what I want it to look like. Sidenote, since we are learning so much currently in Project 1 like Wordpress, buying domains, etc. I think this is such a valuable time right now to take in all of the knowledge that Wim has to offer and apply it. 
 
+<img src="images/stardew.jpg" width="400">
+
+
+## What I need to study on
+Right now, I need to study on a lot of things. There is a lot to take in these last few weeks. Communication is super important and I am starting to understand it right now. I think people tend to get carried away with their own assignments and personal life that they forget to do the group work and just let the other teammates take care of it. That's why I feel like it's good to communicate with one another so that we can keep each other accountable not just in the real world but also in these multiple group projects we've been working on.
 
