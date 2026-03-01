@@ -28,7 +28,6 @@ Submit the url to your pull request
 ### Fishtopia Team Members!
 
 ### Team Members
-| ------------- | 
 | Phillip Ho    |
 | Runn Keerativorant |
 | Tracy Tram    |
