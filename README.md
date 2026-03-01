@@ -33,7 +33,7 @@ Submit the url to your pull request
 | Tracy Tram    |<img src="images/IMG_1293.jpg" width="120"> |
 | Nikka Adrias  |<img src="images/D41F2EE7-ABFF-4FCA-B351-B859B2B77DC1.JPG" width="120"> |
 | Carson Ferguson |<img src="images/IMG_7463.JPG" width="120"> |
-| Athena Zhu    |
+| Athena Zhu    |<img src="images/IMG_6975.jpeg" width="120"> |
 
 
 ## About This Game
@@ -41,6 +41,7 @@ Fishtopia is a 2D pixel-art fishing simulation game set on a secluded island inh
 Upon arrival, a storm wrecks Finn’s boat, leaving them stranded. In order to gain sufficient funds to repair the boat and eventually leave the island, Finn must take over their grandfather’s fishing operation, catch fish, manage the shop, and support the island community.
 As the player progresses, they uncover more about their grandfather’s past and begin to question whether leaving the island is truly their final goal.
 
-
+## What I would like to make perfect in this project
+Since my team has no developers and is just designers, I would like to focus more on the design aspect of things. Since we may not be able to develop this game to its fullest potential, I want to put more focus and emphasis on pixel art and making it look pretty. I want to be able to make the landscape of the game look like an actual video game and not just a student project. Since this may be on our portfolio one day, I want to be able to use this to showcase my skills for my future employers in the near future.
 
 
