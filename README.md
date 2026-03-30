@@ -50,3 +50,5 @@ Since my team has no developers and is just designers, I would like to focus mor
 ## What I need to study on
 Right now, I need to study on a lot of things. There is a lot to take in these last few weeks. Communication is super important and I am starting to understand it right now. I think people tend to get carried away with their own assignments and personal life that they forget to do the group work and just let the other teammates take care of it. That's why I feel like it's good to communicate with one another so that we can keep each other accountable not just in the real world but also in these multiple group projects we've been working on.
 
+## What I need to code for this team project 
+For this project I am going to do the typography, I'm going to also try to code part of the game even though we don't have a fullstack teammate - it will be challenging but I love a challenge.
